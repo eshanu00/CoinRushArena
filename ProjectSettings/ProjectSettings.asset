@@ -697,8 +697,8 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Coin Rush Arena
-  metroPackageVersion: 
+  metroPackageName: CoinRushArena
+  metroPackageVersion: 1.0.0.0
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
@@ -706,7 +706,7 @@ PlayerSettings:
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: Coin Rush Arena
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: Coin Rush Arena
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
@@ -773,7 +773,7 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
-  activeInputHandler: 1
+  activeInputHandler: 2
   windowsGamepadBackendHint: 0
   cloudProjectId: 1959b36d-67ae-4e08-8528-f2b4dfa4b52e
   framebufferDepthMemorylessMode: 0

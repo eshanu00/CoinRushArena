@@ -12,6 +12,7 @@ public class PlayerActions : MonoBehaviour
     private void Start()
     {
         _rb = GetComponent<Rigidbody2D>();
+        _rb.freezeRotation = true;
     }
 
     private void Update()
