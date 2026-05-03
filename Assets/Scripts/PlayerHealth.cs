@@ -7,11 +7,11 @@ public class PlayerHealth : MonoBehaviour
     public void TakeDamage(int damageAmount)
     {
         health -= damageAmount;
-        Debug.Log("Player took damage! Current Health: " + health);
+        Debug.Log("Player Health: " + health);
 
         if (health <= 0)
         {
-            Debug.Log("Game Over! Player died!");
+            Debug.Log("Game Over!");
             Destroy(gameObject);
         }
     }
