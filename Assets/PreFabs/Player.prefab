@@ -101,7 +101,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1846758121310457073}
   - component: {fileID: 914688786775422538}
-  - component: {fileID: 7385161054540227683}
+  - component: {fileID: 2380292828815209806}
   - component: {fileID: 5863611485926964627}
   m_Layer: 0
   m_Name: Player
@@ -141,8 +141,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PlayerActions
   _rb: {fileID: 0}
   _obsticals: []
---- !u!58 &7385161054540227683
-CircleCollider2D:
+--- !u!70 &2380292828815209806
+CapsuleCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -171,12 +171,13 @@ CircleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: -0.221587}
-  m_Radius: 0.278413
+  m_Offset: {x: 0, y: 0}
+  m_Size: {x: 0.5, y: 1}
+  m_Direction: 0
 --- !u!50 &5863611485926964627
 Rigidbody2D:
   serializedVersion: 5
@@ -214,6 +215,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5541824288948863231}
   - component: {fileID: 8707408341148827670}
+  - component: {fileID: 6683908253287160265}
   m_Layer: 0
   m_Name: Capsule
   m_TagString: Untagged
@@ -295,3 +297,39 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
+--- !u!58 &6683908253287160265
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7711497561915721555}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: -0.54894686}
+  m_Radius: 0.55105317

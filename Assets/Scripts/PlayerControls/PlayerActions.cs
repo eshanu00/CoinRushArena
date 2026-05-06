@@ -2,11 +2,11 @@ using UnityEngine;
 
 public class PlayerActions : MonoBehaviour
 {
-    private float _playerSpeed = 1.0f;
     private int _playerHealth = 100;
     private Vector2 _movement;
+    private Rigidbody2D _rb;
 
-    [SerializeField] private Rigidbody2D _rb;
+    [SerializeField] private float _playerSpeed = 2.5f;
     [SerializeField] private GameObject[] _obsticals;
 
     private void Start()
