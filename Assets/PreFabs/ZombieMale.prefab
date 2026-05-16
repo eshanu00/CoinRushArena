@@ -13,8 +13,8 @@ GameObject:
   - component: {fileID: 46744245600116549}
   - component: {fileID: 2914818803505792892}
   m_Layer: 0
-  m_Name: ZombieFemale
-  m_TagString: EnemyFemale
+  m_Name: ZombieMale
+  m_TagString: EnemyMale
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -113,9 +113,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyFollow
   sprite: {fileID: 6423569710216394268}
-  moveSpeed: 2
+  moveSpeed: 1
   attackDistance: 0.5
-  attackCooldown: 1.5
+  attackCooldown: 0.5
 --- !u!1 &2225964625023785614
 GameObject:
   m_ObjectHideFlags: 0
@@ -289,7 +289,7 @@ SpriteRenderer:
   m_SortingLayer: 2
   m_SortingOrder: 1
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 8929304588701372190, guid: dfba35f9cb2daf248b70e2006c62edeb, type: 3}
+  m_Sprite: {fileID: 8929304588701372190, guid: 3627ccda1afabaf468a9f43dc4034a93, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -309,7 +309,7 @@ Animator:
   m_GameObject: {fileID: 6423569710216394268}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 83513f0d33862644ea44ee71e8decafe, type: 2}
+  m_Controller: {fileID: 9100000, guid: d5ad5d4ff2a2bfd40a6f7ace3a501e72, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0

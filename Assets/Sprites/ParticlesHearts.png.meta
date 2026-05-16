@@ -1,0 +1,914 @@
+fileFormatVersion: 2
+guid: 28053b00670182f49980d5b9a8c93577
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3434085640533429590
+    second: ParticlesHearts_0
+  - first:
+      213: -1958353319944094387
+    second: ParticlesHearts_1
+  - first:
+      213: 1806006983701954287
+    second: ParticlesHearts_2
+  - first:
+      213: 6009746760237716970
+    second: ParticlesHearts_3
+  - first:
+      213: -2909886607634790849
+    second: ParticlesHearts_4
+  - first:
+      213: -4066022168912258527
+    second: ParticlesHearts_5
+  - first:
+      213: 6763699208549806308
+    second: ParticlesHearts_6
+  - first:
+      213: 2021179769170562685
+    second: ParticlesHearts_7
+  - first:
+      213: 4982811933758707819
+    second: ParticlesHearts_8
+  - first:
+      213: 3182610339599310861
+    second: ParticlesHearts_9
+  - first:
+      213: 195539871894642033
+    second: ParticlesHearts_10
+  - first:
+      213: -8139240485444514073
+    second: ParticlesHearts_11
+  - first:
+      213: -6847665081318885946
+    second: ParticlesHearts_12
+  - first:
+      213: -2173353317620128472
+    second: ParticlesHearts_13
+  - first:
+      213: 8583905191792661265
+    second: ParticlesHearts_14
+  - first:
+      213: 4245742640851440026
+    second: ParticlesHearts_15
+  - first:
+      213: -230821166324606276
+    second: ParticlesHearts_16
+  - first:
+      213: -2828787727280226765
+    second: ParticlesHearts_17
+  - first:
+      213: -1432601309952083333
+    second: ParticlesHearts_18
+  - first:
+      213: 1297276357696800863
+    second: ParticlesHearts_19
+  - first:
+      213: -7198058763862773031
+    second: ParticlesHearts_20
+  - first:
+      213: -4225589969962795821
+    second: ParticlesHearts_21
+  - first:
+      213: -4208869567637673698
+    second: ParticlesHearts_22
+  - first:
+      213: -428611524067527567
+    second: ParticlesHearts_23
+  - first:
+      213: 4330731548164071316
+    second: ParticlesHearts_24
+  - first:
+      213: -6898826349878084361
+    second: ParticlesHearts_25
+  - first:
+      213: 8295387147042812494
+    second: ParticlesHearts_26
+  - first:
+      213: -7429336699032883892
+    second: ParticlesHearts_27
+  - first:
+      213: 3264684834384043928
+    second: ParticlesHearts_28
+  - first:
+      213: -3959578884055087008
+    second: ParticlesHearts_29
+  - first:
+      213: 3093324831339618259
+    second: ParticlesHearts_30
+  - first:
+      213: 9053405779790312037
+    second: ParticlesHearts_31
+  - first:
+      213: -990178229572761177
+    second: ParticlesHearts_32
+  - first:
+      213: -5017024417094363852
+    second: ParticlesHearts_33
+  - first:
+      213: -2087569160801520602
+    second: ParticlesHearts_34
+  - first:
+      213: -5627368665798777915
+    second: ParticlesHearts_35
+  - first:
+      213: 3331480083295067600
+    second: ParticlesHearts_36
+  - first:
+      213: -8837605887313264386
+    second: ParticlesHearts_37
+  - first:
+      213: -2182557505958288644
+    second: ParticlesHearts_38
+  - first:
+      213: -3610325939538292009
+    second: ParticlesHearts_39
+  - first:
+      213: -2246548836517644065
+    second: ParticlesHearts_40
+  - first:
+      213: -6071851932292022261
+    second: ParticlesHearts_41
+  - first:
+      213: 1580490404602077655
+    second: ParticlesHearts_42
+  - first:
+      213: -832672153255113962
+    second: ParticlesHearts_43
+  - first:
+      213: 5336733225846630644
+    second: ParticlesHearts_44
+  - first:
+      213: 3423218830959070527
+    second: ParticlesHearts_45
+  - first:
+      213: -701817772982761664
+    second: ParticlesHearts_46
+  - first:
+      213: 6349230678540156592
+    second: ParticlesHearts_47
+  - first:
+      213: -1043795428178737292
+    second: ParticlesHearts_48
+  - first:
+      213: -3740195772626999809
+    second: ParticlesHearts_49
+  - first:
+      213: -3120393778442468720
+    second: ParticlesHearts_50
+  - first:
+      213: 6046593490067972811
+    second: ParticlesHearts_51
+  - first:
+      213: -2143336607220992354
+    second: ParticlesHearts_52
+  - first:
+      213: -3516161053659361866
+    second: ParticlesHearts_53
+  - first:
+      213: 4084839709681342849
+    second: ParticlesHearts_54
+  - first:
+      213: 3499440413194525859
+    second: ParticlesHearts_55
+  - first:
+      213: -4372229458802595186
+    second: ParticlesHearts_56
+  - first:
+      213: -8005771071887846676
+    second: ParticlesHearts_57
+  - first:
+      213: -1482744559453331493
+    second: ParticlesHearts_58
+  - first:
+      213: 6315169071047112973
+    second: ParticlesHearts_59
+  - first:
+      213: -1182021530313404343
+    second: ParticlesHearts_60
+  - first:
+      213: -5182814405588642427
+    second: ParticlesHearts_61
+  - first:
+      213: -8975284804336018520
+    second: ParticlesHearts_62
+  - first:
+      213: 1965511972985383919
+    second: ParticlesHearts_63
+  - first:
+      213: 3628080472141046474
+    second: ParticlesHearts_64
+  - first:
+      213: -6931873500742902837
+    second: ParticlesHearts_65
+  - first:
+      213: -1606176519894893775
+    second: ParticlesHearts_66
+  - first:
+      213: -5267093331638243375
+    second: ParticlesHearts_67
+  - first:
+      213: -1581681755824108625
+    second: ParticlesHearts_68
+  - first:
+      213: -6204311823435820701
+    second: ParticlesHearts_69
+  - first:
+      213: 455697229524694183
+    second: ParticlesHearts_70
+  - first:
+      213: 6704620458483835565
+    second: ParticlesHearts_71
+  - first:
+      213: 4699914691012534550
+    second: ParticlesHearts_72
+  - first:
+      213: 4067931549234223014
+    second: ParticlesHearts_73
+  - first:
+      213: 7976369637009682046
+    second: ParticlesHearts_74
+  - first:
+      213: 4256594407634603416
+    second: ParticlesHearts_75
+  - first:
+      213: -8629998196477642756
+    second: ParticlesHearts_76
+  - first:
+      213: 3978708927179055708
+    second: ParticlesHearts_77
+  - first:
+      213: -7506113444407963455
+    second: ParticlesHearts_78
+  - first:
+      213: 8399246453304722013
+    second: ParticlesHearts_79
+  - first:
+      213: 4553294367302576140
+    second: ParticlesHearts_80
+  - first:
+      213: -6818009063919179274
+    second: ParticlesHearts_81
+  - first:
+      213: -2410172584435039538
+    second: ParticlesHearts_82
+  - first:
+      213: -7314528958090105678
+    second: ParticlesHearts_83
+  - first:
+      213: 4512073573672754007
+    second: ParticlesHearts_84
+  - first:
+      213: -6620436720089383664
+    second: ParticlesHearts_85
+  - first:
+      213: 4087726754726296312
+    second: ParticlesHearts_86
+  - first:
+      213: -7740941546807496929
+    second: ParticlesHearts_87
+  - first:
+      213: -2568134815365314043
+    second: ParticlesHearts_88
+  - first:
+      213: -1347314300627635950
+    second: ParticlesHearts_89
+  - first:
+      213: 6840054648902098157
+    second: ParticlesHearts_90
+  - first:
+      213: 925442814272817086
+    second: ParticlesHearts_91
+  - first:
+      213: 1313571422082402440
+    second: ParticlesHearts_92
+  - first:
+      213: -6941381393030815780
+    second: ParticlesHearts_93
+  - first:
+      213: -4255524596664189801
+    second: ParticlesHearts_94
+  - first:
+      213: 8962915253336479425
+    second: ParticlesHearts_95
+  - first:
+      213: -4116717304041989553
+    second: ParticlesHearts_96
+  - first:
+      213: 2818371627058851754
+    second: ParticlesHearts_97
+  - first:
+      213: 208448070137863734
+    second: ParticlesHearts_98
+  - first:
+      213: -1321037886613381886
+    second: ParticlesHearts_99
+  - first:
+      213: 9135848136608553218
+    second: ParticlesHearts_100
+  - first:
+      213: -3238341137498770031
+    second: ParticlesHearts_101
+  - first:
+      213: 8690063022023110177
+    second: ParticlesHearts_102
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ParticlesHearts_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 746
+        width: 301
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa23cb3fd4da750d0800000000000000
+      internalID: -3434085640533429590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesHearts_1
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 746
+        width: 301
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d7604080882d4e0800000000000000
+      internalID: -1958353319944094387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesHearts_2
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 746
+        width: 301
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feefd6578c9301910800000000000000
+      internalID: 1806006983701954287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesHearts_3
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 746
+        width: 301
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5160266d8e66350800000000000000
+      internalID: 6009746760237716970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesHearts_4
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 746
+        width: 301
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36034f2c810e97d0800000000000000
+      internalID: -2909886607634790849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesHearts_5
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 498
+        width: 301
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a1f1d41669297c0800000000000000
+      internalID: -4066022168912258527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesHearts_6
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 498
+        width: 301
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0b335389c7ddd50800000000000000
+      internalID: 6763699208549806308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesHearts_7
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 498
+        width: 301
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e0e989a4cac0c10800000000000000
+      internalID: 2021179769170562685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesHearts_8
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 498
+        width: 301
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68d34ebd01862540800000000000000
+      internalID: 4982811933758707819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesHearts_9
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 498
+        width: 301
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d006d4edd37ea2c20800000000000000
+      internalID: 3182610339599310861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesHearts_10
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 250
+        width: 301
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d94bb3a72b6b200800000000000000
+      internalID: 195539871894642033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesHearts_11
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 250
+        width: 301
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee0a9be6eb9b0f80800000000000000
+      internalID: -8139240485444514073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesHearts_12
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 250
+        width: 301
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5342793e438f0a0800000000000000
+      internalID: -6847665081318885946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesHearts_13
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 250
+        width: 301
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825e5db2ca2b6d1e0800000000000000
+      internalID: -2173353317620128472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesHearts_14
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 250
+        width: 301
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113de6eda48202770800000000000000
+      internalID: 8583905191792661265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesHearts_15
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2
+        width: 301
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91ddabdf68ebea30800000000000000
+      internalID: 4245742640851440026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesHearts_16
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 2
+        width: 301
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba94964f55fbccf0800000000000000
+      internalID: -230821166324606276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesHearts_17
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 2
+        width: 301
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e3a72bc802eb8d0800000000000000
+      internalID: -2828787727280226765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesHearts_18
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 2
+        width: 301
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7afb87e2b06e1ce0800000000000000
+      internalID: -1432601309952083333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesHearts_19
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 2
+        width: 301
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58c70c59f9d00210800000000000000
+      internalID: 1297276357696800863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f7e304c946a79e742b878c2a1407f4ec
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":4.0},"gridSpriteSize":{"x":301.0,"y":248.0},"gridSpriteOffset":{"x":30.0,"y":30.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      ParticlesHearts_0: -3434085640533429590
+      ParticlesHearts_1: -1958353319944094387
+      ParticlesHearts_10: 195539871894642033
+      ParticlesHearts_11: -8139240485444514073
+      ParticlesHearts_12: -6847665081318885946
+      ParticlesHearts_13: -2173353317620128472
+      ParticlesHearts_14: 8583905191792661265
+      ParticlesHearts_15: 4245742640851440026
+      ParticlesHearts_16: -230821166324606276
+      ParticlesHearts_17: -2828787727280226765
+      ParticlesHearts_18: -1432601309952083333
+      ParticlesHearts_19: 1297276357696800863
+      ParticlesHearts_2: 1806006983701954287
+      ParticlesHearts_3: 6009746760237716970
+      ParticlesHearts_4: -2909886607634790849
+      ParticlesHearts_5: -4066022168912258527
+      ParticlesHearts_6: 6763699208549806308
+      ParticlesHearts_7: 2021179769170562685
+      ParticlesHearts_8: 4982811933758707819
+      ParticlesHearts_9: 3182610339599310861
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

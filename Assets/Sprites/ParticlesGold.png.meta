@@ -1,0 +1,1244 @@
+fileFormatVersion: 2
+guid: d76d2f58357d8614289076ec2aeaedcf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6894507030145283968
+    second: ParticlesGold_0
+  - first:
+      213: 6994475981710931078
+    second: ParticlesGold_1
+  - first:
+      213: -2144755691645659370
+    second: ParticlesGold_2
+  - first:
+      213: 1904640526847533528
+    second: ParticlesGold_3
+  - first:
+      213: 491613647376930878
+    second: ParticlesGold_4
+  - first:
+      213: -7450230125365430545
+    second: ParticlesGold_5
+  - first:
+      213: -5412612900446809244
+    second: ParticlesGold_6
+  - first:
+      213: -7130360827169335035
+    second: ParticlesGold_7
+  - first:
+      213: -1469860622405127868
+    second: ParticlesGold_8
+  - first:
+      213: 7756180568865097725
+    second: ParticlesGold_9
+  - first:
+      213: 3109069577728729686
+    second: ParticlesGold_10
+  - first:
+      213: 6309272815789314377
+    second: ParticlesGold_11
+  - first:
+      213: -7598076766077960582
+    second: ParticlesGold_12
+  - first:
+      213: -1741202693105808352
+    second: ParticlesGold_13
+  - first:
+      213: 4349623011490331700
+    second: ParticlesGold_14
+  - first:
+      213: -4056126805769334665
+    second: ParticlesGold_15
+  - first:
+      213: 3723223469304980224
+    second: ParticlesGold_16
+  - first:
+      213: 1918250728124973757
+    second: ParticlesGold_17
+  - first:
+      213: -1538389922194243942
+    second: ParticlesGold_18
+  - first:
+      213: 2972268945680509187
+    second: ParticlesGold_19
+  - first:
+      213: -2143675387220958168
+    second: ParticlesGold_20
+  - first:
+      213: 3236287051337917722
+    second: ParticlesGold_21
+  - first:
+      213: -3009681190737584256
+    second: ParticlesGold_22
+  - first:
+      213: 9058063026844030971
+    second: ParticlesGold_23
+  - first:
+      213: 1112619628694373399
+    second: ParticlesGold_24
+  - first:
+      213: 8533274477294552347
+    second: ParticlesGold_25
+  - first:
+      213: -5775287059776917076
+    second: ParticlesGold_26
+  - first:
+      213: -2221182593492353821
+    second: ParticlesGold_27
+  - first:
+      213: 928315948204556543
+    second: ParticlesGold_28
+  - first:
+      213: 7960017459846479999
+    second: ParticlesGold_29
+  - first:
+      213: -3516421088992456736
+    second: ParticlesGold_30
+  - first:
+      213: -7449150373288469855
+    second: ParticlesGold_31
+  - first:
+      213: -671760683022832159
+    second: ParticlesGold_32
+  - first:
+      213: -5632575699922325654
+    second: ParticlesGold_33
+  - first:
+      213: 1966258982992652400
+    second: ParticlesGold_34
+  - first:
+      213: -4560084319983144844
+    second: ParticlesGold_35
+  - first:
+      213: -299587948366723
+    second: ParticlesGold_36
+  - first:
+      213: -7108367515166779839
+    second: ParticlesGold_37
+  - first:
+      213: -8811959190821724288
+    second: ParticlesGold_38
+  - first:
+      213: 8195082322005034156
+    second: ParticlesGold_39
+  - first:
+      213: 3482101894107380826
+    second: ParticlesGold_40
+  - first:
+      213: 8989037308746251563
+    second: ParticlesGold_41
+  - first:
+      213: 5469875859548446462
+    second: ParticlesGold_42
+  - first:
+      213: -7659739132385631424
+    second: ParticlesGold_43
+  - first:
+      213: -2915209088858028856
+    second: ParticlesGold_44
+  - first:
+      213: -8029654686610862157
+    second: ParticlesGold_45
+  - first:
+      213: 8732597131150470131
+    second: ParticlesGold_46
+  - first:
+      213: -2473153446732216969
+    second: ParticlesGold_47
+  - first:
+      213: 2195126500553756366
+    second: ParticlesGold_48
+  - first:
+      213: 8581177811329319422
+    second: ParticlesGold_49
+  - first:
+      213: -1107208953154181986
+    second: ParticlesGold_50
+  - first:
+      213: 3551729216015233781
+    second: ParticlesGold_51
+  - first:
+      213: 2129894666067931849
+    second: ParticlesGold_52
+  - first:
+      213: -4650828757620123888
+    second: ParticlesGold_53
+  - first:
+      213: 4047308652973710827
+    second: ParticlesGold_54
+  - first:
+      213: -4536198995757530222
+    second: ParticlesGold_55
+  - first:
+      213: -3956318670867721554
+    second: ParticlesGold_56
+  - first:
+      213: -5734675067607004732
+    second: ParticlesGold_57
+  - first:
+      213: 6668509356354205093
+    second: ParticlesGold_58
+  - first:
+      213: 1442150992895387223
+    second: ParticlesGold_59
+  - first:
+      213: -1515891064896931315
+    second: ParticlesGold_60
+  - first:
+      213: -9181397164873146846
+    second: ParticlesGold_61
+  - first:
+      213: 4048304621073013009
+    second: ParticlesGold_62
+  - first:
+      213: 8122253291750710109
+    second: ParticlesGold_63
+  - first:
+      213: -395423497970973899
+    second: ParticlesGold_64
+  - first:
+      213: -1886631126680322275
+    second: ParticlesGold_65
+  - first:
+      213: 1577510382259515484
+    second: ParticlesGold_66
+  - first:
+      213: 8669496003967294279
+    second: ParticlesGold_67
+  - first:
+      213: 8484782167627307609
+    second: ParticlesGold_68
+  - first:
+      213: -4096143323197761207
+    second: ParticlesGold_69
+  - first:
+      213: 4951141640107170679
+    second: ParticlesGold_70
+  - first:
+      213: 4217435571529711295
+    second: ParticlesGold_71
+  - first:
+      213: 2978531721311727173
+    second: ParticlesGold_72
+  - first:
+      213: -5006699317131791815
+    second: ParticlesGold_73
+  - first:
+      213: 5251095959398970742
+    second: ParticlesGold_74
+  - first:
+      213: -7424511985043016201
+    second: ParticlesGold_75
+  - first:
+      213: -1774696223919584393
+    second: ParticlesGold_76
+  - first:
+      213: 6757911537602920980
+    second: ParticlesGold_77
+  - first:
+      213: 6711481356825710447
+    second: ParticlesGold_78
+  - first:
+      213: -1496098478128227787
+    second: ParticlesGold_79
+  - first:
+      213: 824818891610194018
+    second: ParticlesGold_80
+  - first:
+      213: 8585049553542485681
+    second: ParticlesGold_81
+  - first:
+      213: -8056949269237885620
+    second: ParticlesGold_82
+  - first:
+      213: 2257733792175884682
+    second: ParticlesGold_83
+  - first:
+      213: 1408018808220668319
+    second: ParticlesGold_84
+  - first:
+      213: -4292129060964535899
+    second: ParticlesGold_85
+  - first:
+      213: 4397739384806663493
+    second: ParticlesGold_86
+  - first:
+      213: -6459324280885361216
+    second: ParticlesGold_87
+  - first:
+      213: -3753987024214480915
+    second: ParticlesGold_88
+  - first:
+      213: 524735656957296721
+    second: ParticlesGold_89
+  - first:
+      213: -638182926664075595
+    second: ParticlesGold_90
+  - first:
+      213: -798097985575874487
+    second: ParticlesGold_91
+  - first:
+      213: 3473204015813452944
+    second: ParticlesGold_92
+  - first:
+      213: -7148397431471800075
+    second: ParticlesGold_93
+  - first:
+      213: -1949711041414293052
+    second: ParticlesGold_94
+  - first:
+      213: -3158674830216736916
+    second: ParticlesGold_95
+  - first:
+      213: -3902783751875648776
+    second: ParticlesGold_96
+  - first:
+      213: 6816432607877933327
+    second: ParticlesGold_97
+  - first:
+      213: 4716911144358661376
+    second: ParticlesGold_98
+  - first:
+      213: 2443301689639163052
+    second: ParticlesGold_99
+  - first:
+      213: 1869491688360893585
+    second: ParticlesGold_100
+  - first:
+      213: -7986508361723480227
+    second: ParticlesGold_101
+  - first:
+      213: 6571497734667010293
+    second: ParticlesGold_102
+  - first:
+      213: -7222144134709788458
+    second: ParticlesGold_103
+  - first:
+      213: -8603603077514665825
+    second: ParticlesGold_104
+  - first:
+      213: -3680403434840800698
+    second: ParticlesGold_105
+  - first:
+      213: -1357117648899143543
+    second: ParticlesGold_106
+  - first:
+      213: -3150421081108553045
+    second: ParticlesGold_107
+  - first:
+      213: 8907443035478070813
+    second: ParticlesGold_108
+  - first:
+      213: -8670458404083058453
+    second: ParticlesGold_109
+  - first:
+      213: 8453624557598136552
+    second: ParticlesGold_110
+  - first:
+      213: 5037746741548137246
+    second: ParticlesGold_111
+  - first:
+      213: -1669379366804201939
+    second: ParticlesGold_112
+  - first:
+      213: -7614115824749475890
+    second: ParticlesGold_113
+  - first:
+      213: 2667749759698134389
+    second: ParticlesGold_114
+  - first:
+      213: -6320738270077318937
+    second: ParticlesGold_115
+  - first:
+      213: -7756561139693873861
+    second: ParticlesGold_116
+  - first:
+      213: 3304961069020854849
+    second: ParticlesGold_117
+  - first:
+      213: -8461803000800250701
+    second: ParticlesGold_118
+  - first:
+      213: -8558249538634211845
+    second: ParticlesGold_119
+  - first:
+      213: -1348962831214252925
+    second: ParticlesGold_120
+  - first:
+      213: 6227472864513069265
+    second: ParticlesGold_121
+  - first:
+      213: -8959639004862795745
+    second: ParticlesGold_122
+  - first:
+      213: 7460813663978499379
+    second: ParticlesGold_123
+  - first:
+      213: 8744722558552696646
+    second: ParticlesGold_124
+  - first:
+      213: 1398192963614545903
+    second: ParticlesGold_125
+  - first:
+      213: 8047249895128441245
+    second: ParticlesGold_126
+  - first:
+      213: -2379868166712673683
+    second: ParticlesGold_127
+  - first:
+      213: 8139778436275184013
+    second: ParticlesGold_128
+  - first:
+      213: -8648425276736448416
+    second: ParticlesGold_129
+  - first:
+      213: 4485297187112473874
+    second: ParticlesGold_130
+  - first:
+      213: 4706980434916966517
+    second: ParticlesGold_131
+  - first:
+      213: -384500245802089861
+    second: ParticlesGold_132
+  - first:
+      213: -8940637267447375480
+    second: ParticlesGold_133
+  - first:
+      213: -1088448005890680059
+    second: ParticlesGold_134
+  - first:
+      213: -1773332873361963544
+    second: ParticlesGold_135
+  - first:
+      213: -1038335544529655022
+    second: ParticlesGold_136
+  - first:
+      213: 5927260648561597691
+    second: ParticlesGold_137
+  - first:
+      213: 3799793187065394185
+    second: ParticlesGold_138
+  - first:
+      213: 3530343223341893885
+    second: ParticlesGold_139
+  - first:
+      213: -3392839686735768373
+    second: ParticlesGold_140
+  - first:
+      213: 8439475530446823916
+    second: ParticlesGold_141
+  - first:
+      213: 7284709428101567812
+    second: ParticlesGold_142
+  - first:
+      213: -4415627353858914670
+    second: ParticlesGold_143
+  - first:
+      213: 7587747832718296346
+    second: ParticlesGold_144
+  - first:
+      213: 8650771543646548864
+    second: ParticlesGold_145
+  - first:
+      213: 2122294500074478215
+    second: ParticlesGold_146
+  - first:
+      213: -7321501585506377063
+    second: ParticlesGold_147
+  - first:
+      213: 1856761755799950943
+    second: ParticlesGold_148
+  - first:
+      213: 5704480094786530837
+    second: ParticlesGold_149
+  - first:
+      213: 8455827272859176852
+    second: ParticlesGold_150
+  - first:
+      213: 2164873341864455823
+    second: ParticlesGold_151
+  - first:
+      213: 6872922426437123203
+    second: ParticlesGold_152
+  - first:
+      213: 5345980275677007147
+    second: ParticlesGold_153
+  - first:
+      213: 873878748935635983
+    second: ParticlesGold_154
+  - first:
+      213: 4284313463906583004
+    second: ParticlesGold_155
+  - first:
+      213: -5087965311380066723
+    second: ParticlesGold_156
+  - first:
+      213: 5439901529101195671
+    second: ParticlesGold_157
+  - first:
+      213: 4610717984034127938
+    second: ParticlesGold_158
+  - first:
+      213: -6191369249431695072
+    second: ParticlesGold_159
+  - first:
+      213: -535703330632363548
+    second: ParticlesGold_160
+  - first:
+      213: -6269151822587349941
+    second: ParticlesGold_161
+  - first:
+      213: 7310441199855772209
+    second: ParticlesGold_162
+  - first:
+      213: 5559267350199653689
+    second: ParticlesGold_163
+  - first:
+      213: -4816066273557450628
+    second: ParticlesGold_164
+  - first:
+      213: 2293513454314483594
+    second: ParticlesGold_165
+  - first:
+      213: -607133085435820343
+    second: ParticlesGold_166
+  - first:
+      213: -2366806725594766121
+    second: ParticlesGold_167
+  - first:
+      213: -8656608303344410904
+    second: ParticlesGold_168
+  - first:
+      213: 1404855193730105290
+    second: ParticlesGold_169
+  - first:
+      213: 1839024906987480531
+    second: ParticlesGold_170
+  - first:
+      213: 1575401540287262515
+    second: ParticlesGold_171
+  - first:
+      213: 6519306150549759048
+    second: ParticlesGold_172
+  - first:
+      213: 8982818112693424382
+    second: ParticlesGold_173
+  - first:
+      213: -8359689257428573212
+    second: ParticlesGold_174
+  - first:
+      213: -8661533361582134435
+    second: ParticlesGold_175
+  - first:
+      213: -8356786428065524468
+    second: ParticlesGold_176
+  - first:
+      213: 9126864171610902203
+    second: ParticlesGold_177
+  - first:
+      213: 8011277277925717720
+    second: ParticlesGold_178
+  - first:
+      213: 3471386014539404098
+    second: ParticlesGold_179
+  - first:
+      213: 9093965593697776328
+    second: ParticlesGold_180
+  - first:
+      213: -8465488652868944522
+    second: ParticlesGold_181
+  - first:
+      213: -5194309609801965848
+    second: ParticlesGold_182
+  - first:
+      213: 2975776784323821657
+    second: ParticlesGold_183
+  - first:
+      213: -4962589185458443467
+    second: ParticlesGold_184
+  - first:
+      213: -4117250735172015737
+    second: ParticlesGold_185
+  - first:
+      213: 4327182362026665015
+    second: ParticlesGold_186
+  - first:
+      213: 8504740313797142704
+    second: ParticlesGold_187
+  - first:
+      213: 5410468611879340487
+    second: ParticlesGold_188
+  - first:
+      213: -6858394277850367792
+    second: ParticlesGold_189
+  - first:
+      213: 7330460034333618127
+    second: ParticlesGold_190
+  - first:
+      213: 2979653805844462684
+    second: ParticlesGold_191
+  - first:
+      213: 249385022979187111
+    second: ParticlesGold_192
+  - first:
+      213: -1947607561886931896
+    second: ParticlesGold_193
+  - first:
+      213: 2713316673723755188
+    second: ParticlesGold_194
+  - first:
+      213: -6176449141638145240
+    second: ParticlesGold_195
+  - first:
+      213: -2076879909060797081
+    second: ParticlesGold_196
+  - first:
+      213: -7602200102806816571
+    second: ParticlesGold_197
+  - first:
+      213: 6885052228209301826
+    second: ParticlesGold_198
+  - first:
+      213: 8289868219669079266
+    second: ParticlesGold_199
+  - first:
+      213: -8348263374829415438
+    second: ParticlesGold_200
+  - first:
+      213: -1952046966412392286
+    second: ParticlesGold_201
+  - first:
+      213: 8107951432468478765
+    second: ParticlesGold_202
+  - first:
+      213: -3253244951283652579
+    second: ParticlesGold_203
+  - first:
+      213: -6887177955545090271
+    second: ParticlesGold_204
+  - first:
+      213: 582982178420417435
+    second: ParticlesGold_205
+  - first:
+      213: 4626661677273993441
+    second: ParticlesGold_206
+  - first:
+      213: -8634914374996829329
+    second: ParticlesGold_207
+  - first:
+      213: 3566560834017941957
+    second: ParticlesGold_208
+  - first:
+      213: 4530222892007079894
+    second: ParticlesGold_209
+  - first:
+      213: -4374537182103963013
+    second: ParticlesGold_210
+  - first:
+      213: 2822167686630459532
+    second: ParticlesGold_211
+  - first:
+      213: -8545531737715417728
+    second: ParticlesGold_212
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ParticlesGold_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 746
+        width: 301
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088c1ce726ac150a0800000000000000
+      internalID: -6894507030145283968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesGold_1
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 746
+        width: 301
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684b1e7d8de511160800000000000000
+      internalID: 6994475981710931078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesGold_2
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 746
+        width: 301
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6179675df0c4c32e0800000000000000
+      internalID: -2144755691645659370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesGold_3
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 746
+        width: 301
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d16f8bc774ae6a10800000000000000
+      internalID: 1904640526847533528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesGold_4
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 746
+        width: 301
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38d2a2f10092d600800000000000000
+      internalID: 491613647376930878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesGold_5
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 498
+        width: 301
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6fdaa8c277b9890800000000000000
+      internalID: -7450230125365430545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesGold_6
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 498
+        width: 301
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463db2a8e3982e4b0800000000000000
+      internalID: -5412612900446809244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesGold_7
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 498
+        width: 301
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50916302b9edb0d90800000000000000
+      internalID: -7130360827169335035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesGold_8
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 498
+        width: 301
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44135343d810a9be0800000000000000
+      internalID: -1469860622405127868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesGold_9
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 495
+        width: 301
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7cdf4222d73ab60800000000000000
+      internalID: 7756180568865097725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesGold_10
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 250
+        width: 301
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652ae72fe42a52b20800000000000000
+      internalID: 3109069577728729686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesGold_11
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 250
+        width: 301
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9419620b23a0f8750800000000000000
+      internalID: 6309272815789314377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesGold_12
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 250
+        width: 301
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e36c500753e8690800000000000000
+      internalID: -7598076766077960582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesGold_13
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 250
+        width: 301
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c897b306106d7e0800000000000000
+      internalID: -1741202693105808352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesGold_14
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 250
+        width: 301
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43cfeba6517fc5c30800000000000000
+      internalID: 4349623011490331700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesGold_15
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2
+        width: 301
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770dd22192eb5b7c0800000000000000
+      internalID: -4056126805769334665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesGold_16
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 2
+        width: 301
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0032253d40c8ba330800000000000000
+      internalID: 3723223469304980224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesGold_17
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 2
+        width: 301
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db20608bfdefe9a10800000000000000
+      internalID: 1918250728124973757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesGold_18
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 2
+        width: 301
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e3299348a86aae0800000000000000
+      internalID: -1538389922194243942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticlesGold_19
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 2
+        width: 301
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309263cbbde9f3920800000000000000
+      internalID: 2972268945680509187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3e2f753f09bc4ba4ea95746277075913
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":4.0},"gridSpriteSize":{"x":301.0,"y":248.0},"gridSpriteOffset":{"x":30.0,"y":30.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      ParticlesGold_0: -6894507030145283968
+      ParticlesGold_1: 6994475981710931078
+      ParticlesGold_10: 3109069577728729686
+      ParticlesGold_11: 6309272815789314377
+      ParticlesGold_12: -7598076766077960582
+      ParticlesGold_13: -1741202693105808352
+      ParticlesGold_14: 4349623011490331700
+      ParticlesGold_15: -4056126805769334665
+      ParticlesGold_16: 3723223469304980224
+      ParticlesGold_17: 1918250728124973757
+      ParticlesGold_18: -1538389922194243942
+      ParticlesGold_19: 2972268945680509187
+      ParticlesGold_2: -2144755691645659370
+      ParticlesGold_3: 1904640526847533528
+      ParticlesGold_4: 491613647376930878
+      ParticlesGold_5: -7450230125365430545
+      ParticlesGold_6: -5412612900446809244
+      ParticlesGold_7: -7130360827169335035
+      ParticlesGold_8: -1469860622405127868
+      ParticlesGold_9: 7756180568865097725
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
